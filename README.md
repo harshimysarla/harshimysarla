@@ -1,11 +1,12 @@
 <div align="center">
-# 👋 Hi, I'm <b>Harshith Mysarla</b>
+ <h1 align="center">
+  👋 Hi, I'm <strong>Harshith Mysarla</strong>
+</h1>
 
 ### 🚀 Computer Science Engineering Student | 🤖 AI Enthusiast | 💻 Full Stack Developer
-
+<br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Developer;Python+Developer;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -92,9 +93,6 @@ Become a Software Engineer at a leading product-based company while building imp
 - ⚡ Easy-to-use Interface
 
 **Tech Stack:** `HTML` • `CSS` • `JavaScript`
-
----
----
 
 ---
 
