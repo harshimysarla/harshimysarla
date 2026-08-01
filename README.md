@@ -104,42 +104,6 @@ Become a Software Engineer at a leading product-based company while building imp
 `HTML` • `CSS` • `JavaScript`
 
 ---
-
-## 🏆 Certifications
-
-- 🥇 Samsung Innovation Campus
-- 🐍 Python Internship – EISystems
-- ☕ Java Bootcamp – LetsUpgrade
-- 🌐 Web Development – Codtech IT Solutions
-- 🤖 AI Tools Workshop – be10x
-- 🔐 Cyber Security Pledge – ISEA
-- 🚀 HackWithAI – Unstop
-
----
-
-## 🏅 Achievements
-
-🏆 Hackathon Participant – IndiaCodex
-
-🏆 Hackathon Participant – KLH University
-
-🎯 Student Coordinator – College Event
-
----
-
-
----
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshimysarla&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect With Me
