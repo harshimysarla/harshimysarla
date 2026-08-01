@@ -1,5 +1,5 @@
 <div align="center">
-# 👋 Hi, I'm **Harshith Mysarla**
+# 👋 Hi, I'm <b>Harshith Mysarla</b>
 
 ### 🚀 Computer Science Engineering Student | 🤖 AI Enthusiast | 💻 Full Stack Developer
 
@@ -7,7 +7,7 @@
 
 <br>
 
-
+<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 <br><br>
 
@@ -94,6 +94,10 @@ Become a Software Engineer at a leading product-based company while building imp
 **Tech Stack:** `HTML` • `CSS` • `JavaScript`
 
 ---
+---
+
+---
+
 ## 💡 Developer Quote
 
 <div align="center">
