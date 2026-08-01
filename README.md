@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 
 <br><br>
 
