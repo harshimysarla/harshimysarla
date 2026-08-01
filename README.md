@@ -1,6 +1,6 @@
 <div align="center">
  <h1 align="center">
-  👋 Hi, I'm <strong>Harshith Mysarla</strong>
+   Hi, I'm <strong>Harshith Mysarla</strong>👋
 </h1>
 
 ### 🚀 Computer Science Engineering Student | 🤖 AI Enthusiast | 💻 Full Stack Developer
