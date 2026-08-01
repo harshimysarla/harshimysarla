@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Harshith Mysarla Banner" width="100%">
-</p>
-<div align="center">
 
 # 👋 Hi, I'm <b>Harshith Mysarla</b>
 
