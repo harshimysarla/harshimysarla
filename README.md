@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Developer;Python+Developer;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
 
-<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/ align="center">
 
 <br><br>
 
@@ -68,9 +68,19 @@ Become a Software Engineer at a leading product-based company while building imp
 
 ## 🚀 Featured Projects
 
-| 🚀 Project | 💡 Value Proposition | 🛠️ Tech Stack | 🔗 |
-|------------|----------------------|---------------|----|
-| ✈️ **[LuxeAI](https://github.com/harshimysarla/LuxeAI)** | AI-powered airport lounge entry system with facial recognition and biometric authentication. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | [Repo](https://github.com/harshimysarla/LuxeAI) |
+## 🌟 Featured Projects
+
+| 🚀 Project | 💡 Value Proposition | 🛠️ Tech Stack | 🔗 Links |
+|------------|----------------------|---------------|----------|
+| 🤖 **[NexusOne Business AI](https://github.com/harshimysarla/NexusOne-Business-AI)** | Autonomous AI-powered business intelligence platform combining Agentic AI, Computer Vision, Predictive Analytics, and LLMs for enterprise automation. | `AI` `LLMs` `Computer Vision` `Predictive Analytics` | [Repo](https://github.com/harshimysarla/NexusOne-Business-AI) |
+| ✈️ **[LuxeAI](https://github.com/harshimysarla/LuxeAI)** | AI-powered airport lounge entry system using ArcFace facial recognition, biometric authentication, booking validation, and an intelligent admin dashboard. | `FastAPI` `Python` `OpenCV` `SQLite` | [Repo](https://github.com/harshimysarla/LuxeAI) |
+| ♻️ **[SegreGuard](https://github.com/harshimysarla/Segreguard)** | AI-assisted waste segregation platform with smart classification, recycling center locator, eco-rewards, and environmental impact analytics. | `React` `Django` `Tailwind CSS` `Python` | [Repo](https://github.com/harshimysarla/Segreguard) |
+| 🏭 **[SMCC Website](https://github.com/harshimysarla/SMCC-website)** | Modern corporate website for Sree Manikanta Cables & Conductors featuring responsive UI, animations, dark mode, and premium design. | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` | [Repo](https://github.com/harshimysarla/SMCC-website) |
+| 💧 **[WaterGuardian](https://github.com/harshimysarla/WaterGuardian)** | Flutter-based gamified mobile app encouraging water conservation through challenges, eco-rewards, badges, and community leaderboards. | `Flutter` `Dart` `Material Design` | [Repo](https://github.com/harshimysarla/WaterGuardian) |
+| 🛒 **[Amazon Clone](https://github.com/harshimysarla/Frontend-Ecommerce-Project)** | Responsive Amazon-inspired e-commerce frontend with modern UI, product showcase, responsive layouts, and clean component-based design. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/harshimysarla/Frontend-Ecommerce-Project) |
+| 👩‍💼 **[Women Career Guidance](https://github.com/harshimysarla/women-career-guidance-app)** | Career guidance platform designed to empower women with career resources, mentorship opportunities, and professional development support. | `Node.js` `JavaScript` `HTML` `CSS` | [Repo](https://github.com/harshimysarla/women-career-guidance-app) |
+
+---
 ---
 
 ## 💡 Developer Quote
