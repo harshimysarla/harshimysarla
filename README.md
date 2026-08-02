@@ -68,30 +68,9 @@ Become a Software Engineer at a leading product-based company while building imp
 
 ## 🚀 Featured Projects
 
-### ✈️ LuxeAI
-
-**Smart Airport Lounge Assistance Platform**
-
-- 🤖 Smart Lounge Assistance
-- 📱 Responsive User Interface
-- 🎯 Personalized Recommendations
-- 📊 Enhanced Passenger Experience
-
-**Tech Stack:** `HTML` • `CSS` • `JavaScript`
-
----
-
-### ♻️ Segreguard
-
-**Smart Waste Segregation Platform**
-
-- ♻️ Waste Classification
-- 🌱 Environmental Awareness
-- 💻 Responsive Design
-- ⚡ Easy-to-use Interface
-
-**Tech Stack:** `HTML` • `CSS` • `JavaScript`
-
+| 🚀 Project | 💡 Value Proposition | 🛠️ Tech Stack | 🔗 |
+|------------|----------------------|---------------|----|
+| ✈️ **[LuxeAI](https://github.com/harshimysarla/LuxeAI)** | AI-powered airport lounge entry system with facial recognition and biometric authentication. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | [Repo](https://github.com/harshimysarla/LuxeAI) |
 ---
 
 ## 💡 Developer Quote
