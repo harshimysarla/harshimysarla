@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Developer;Python+Developer;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies"/>
 
 
-<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/ align="center">
+<img src="https://komarev.com/ghpvc/?username=harshimysarla&label=Profile+Views&color=0e75b6&style=for-the-badge"/ >
 
 <br><br>
 
