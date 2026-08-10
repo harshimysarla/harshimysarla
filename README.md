@@ -66,48 +66,21 @@ Become a Software Engineer at a leading product-based company while building imp
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-## 🌟 Featured Projects
+| 🚀 Project                                                                                    | 💡 Value Proposition                                                                                                                                       | 🛠️ Tech Stack                                        | 🔗 Links                                                                    |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| 🤖 **[NexusOne Business AI](https://github.com/harshimysarla/NexusOne-Business-AI)**          | Autonomous AI-powered business intelligence platform combining Agentic AI, Computer Vision, Predictive Analytics, and LLMs for enterprise automation.      | `AI` `LLMs` `Computer Vision` `Predictive Analytics`  | [Repo](https://github.com/harshimysarla/NexusOne-Business-AI)               |
+| ✈️ **[LuxeAI](https://github.com/harshimysarla/LuxeAI)**                                      | AI-powered airport lounge entry system using ArcFace facial recognition, biometric authentication, booking validation, and an intelligent admin dashboard. | `FastAPI` `Python` `OpenCV` `SQLite`                  | [Repo](https://github.com/harshimysarla/LuxeAI)                             |
+| ♻️ **[SegreGuard](https://github.com/harshimysarla/Segreguard)**                              | AI-assisted waste segregation platform with smart classification, recycling center locator, eco-rewards, and environmental impact analytics.               | `React` `Django` `Tailwind CSS` `Python`              | [Repo](https://github.com/harshimysarla/Segreguard)                         |
+| 🏭 **[SMCC Website](https://github.com/harshimysarla/SMCC-website)**                          | Modern corporate website for Sree Manikanta Cables & Conductors featuring responsive UI, animations, dark mode, and premium design.                        | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` | [Repo](https://github.com/harshimysarla/SMCC-website)                       |
+| 💧 **[WaterGuardian](https://github.com/harshimysarla/WaterGuardian)**                        | Flutter-based gamified mobile app encouraging water conservation through challenges, eco-rewards, badges, and community leaderboards.                      | `Flutter` `Dart` `Material Design`                    | [Repo](https://github.com/harshimysarla/WaterGuardian)                      |
+| 🛒 **[Amazon Clone](https://github.com/harshimysarla/Frontend-Ecommerce-Project)**            | Responsive Amazon-inspired e-commerce frontend with modern UI, product showcase, responsive layouts, and clean component-based design.                     | `HTML` `CSS` `JavaScript`                             | [Repo](https://github.com/harshimysarla/Frontend-Ecommerce-Project)         |
+| 👩‍💼 **[Women Career Guidance](https://github.com/harshimysarla/women-career-guidance-app)** | Career guidance platform designed to empower women with career resources, mentorship opportunities, and professional development support.                  | `Node.js` `JavaScript` `HTML` `CSS`                   | [Repo](https://github.com/harshimysarla/women-career-guidance-app)           |
+| 🛡️ **[SentinelX AI Governance Firewall](https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall)** | Enterprise AI governance and security platform that intercepts LLM requests, detects sensitive data and secrets, evaluates security policies and risk, safely rewrites prompts, and routes requests through AI models. | `Next.js` `TypeScript` `MongoDB` `LLMs` `AI Security` | [Repo](https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall) |
+| 🤖 **[OnboardAI](https://github.com/harshimysarla/OnboardAI)**                                | AI-powered employee onboarding and HR management platform designed to streamline employee onboarding, management, and organizational workflows.            | `Next.js` `TypeScript` `MongoDB` `Node.js`             | [Repo](https://github.com/harshimysarla/OnboardAI)                          |
 
-| 🚀 Project | 💡 Value Proposition | 🛠️ Tech Stack | 🔗 Links |
-|------------|----------------------|---------------|----------|
-| 🤖 **[NexusOne Business AI](https://github.com/harshimysarla/NexusOne-Business-AI)** | Autonomous AI-powered business intelligence platform combining Agentic AI, Computer Vision, Predictive Analytics, and LLMs for enterprise automation. | `AI` `LLMs` `Computer Vision` `Predictive Analytics` | [Repo](https://github.com/harshimysarla/NexusOne-Business-AI) |
-| ✈️ **[LuxeAI](https://github.com/harshimysarla/LuxeAI)** | AI-powered airport lounge entry system using ArcFace facial recognition, biometric authentication, booking validation, and an intelligent admin dashboard. | `FastAPI` `Python` `OpenCV` `SQLite` | [Repo](https://github.com/harshimysarla/LuxeAI) |
-| ♻️ **[SegreGuard](https://github.com/harshimysarla/Segreguard)** | AI-assisted waste segregation platform with smart classification, recycling center locator, eco-rewards, and environmental impact analytics. | `React` `Django` `Tailwind CSS` `Python` | [Repo](https://github.com/harshimysarla/Segreguard) |
-| 🏭 **[SMCC Website](https://github.com/harshimysarla/SMCC-website)** | Modern corporate website for Sree Manikanta Cables & Conductors featuring responsive UI, animations, dark mode, and premium design. | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` | [Repo](https://github.com/harshimysarla/SMCC-website) |
-| 💧 **[WaterGuardian](https://github.com/harshimysarla/WaterGuardian)** | Flutter-based gamified mobile app encouraging water conservation through challenges, eco-rewards, badges, and community leaderboards. | `Flutter` `Dart` `Material Design` | [Repo](https://github.com/harshimysarla/WaterGuardian) |
-| 🛒 **[Amazon Clone](https://github.com/harshimysarla/Frontend-Ecommerce-Project)** | Responsive Amazon-inspired e-commerce frontend with modern UI, product showcase, responsive layouts, and clean component-based design. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/harshimysarla/Frontend-Ecommerce-Project) |
-| 👩‍💼 **[Women Career Guidance](https://github.com/harshimysarla/women-career-guidance-app)** | Career guidance platform designed to empower women with career resources, mentorship opportunities, and professional development support. | `Node.js` `JavaScript` `HTML` `CSS` | [Repo](https://github.com/harshimysarla/women-career-guidance-app) |
-<tr>
-<td>🛡️ <a href="https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall"><strong>SentinelX AI Governance Firewall</strong></a></td>
-<td>Enterprise AI governance and security platform that intercepts LLM requests, detects sensitive data and secrets, evaluates policies and risk, safely rewrites prompts, and routes requests through AI models.</td>
-<td>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>MongoDB</code>
-<code>LLMs</code>
-<code>Cybersecurity</code>
-<code>AI</code>
-</td>
-<td><a href="https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall">Repo</a></td>
-</tr>
-
-<tr>
-<td>🤖 <a href="https://github.com/harshimysarla/OnboardAI"><strong>OnboardAI</strong></a></td>
-<td>AI-powered employee onboarding and HR management platform with secure multi-tenant architecture, role-based access control, intelligent onboarding workflows, and document management.</td>
-<td>
-<code>Next.js</code>
-<code>TypeScript</code>
-<code>MongoDB</code>
-<code>JWT</code>
-<code>Mongoose</code>
-<code>React</code>
-</td>
-<td><a href="https://github.com/harshimysarla/OnboardAI">Repo</a></td>
-</tr>
-
+---
 ---
 ---
 
