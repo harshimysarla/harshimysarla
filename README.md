@@ -80,6 +80,33 @@ Become a Software Engineer at a leading product-based company while building imp
 | 💧 **[WaterGuardian](https://github.com/harshimysarla/WaterGuardian)** | Flutter-based gamified mobile app encouraging water conservation through challenges, eco-rewards, badges, and community leaderboards. | `Flutter` `Dart` `Material Design` | [Repo](https://github.com/harshimysarla/WaterGuardian) |
 | 🛒 **[Amazon Clone](https://github.com/harshimysarla/Frontend-Ecommerce-Project)** | Responsive Amazon-inspired e-commerce frontend with modern UI, product showcase, responsive layouts, and clean component-based design. | `HTML` `CSS` `JavaScript` | [Repo](https://github.com/harshimysarla/Frontend-Ecommerce-Project) |
 | 👩‍💼 **[Women Career Guidance](https://github.com/harshimysarla/women-career-guidance-app)** | Career guidance platform designed to empower women with career resources, mentorship opportunities, and professional development support. | `Node.js` `JavaScript` `HTML` `CSS` | [Repo](https://github.com/harshimysarla/women-career-guidance-app) |
+<tr>
+<td>🛡️ <a href="https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall"><strong>SentinelX AI Governance Firewall</strong></a></td>
+<td>Enterprise AI governance and security platform that intercepts LLM requests, detects sensitive data and secrets, evaluates policies and risk, safely rewrites prompts, and routes requests through AI models.</td>
+<td>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>MongoDB</code>
+<code>LLMs</code>
+<code>Cybersecurity</code>
+<code>AI</code>
+</td>
+<td><a href="https://github.com/harshimysarla/SentinelX-AI-Governance-Firewall">Repo</a></td>
+</tr>
+
+<tr>
+<td>🤖 <a href="https://github.com/harshimysarla/OnboardAI"><strong>OnboardAI</strong></a></td>
+<td>AI-powered employee onboarding and HR management platform with secure multi-tenant architecture, role-based access control, intelligent onboarding workflows, and document management.</td>
+<td>
+<code>Next.js</code>
+<code>TypeScript</code>
+<code>MongoDB</code>
+<code>JWT</code>
+<code>Mongoose</code>
+<code>React</code>
+</td>
+<td><a href="https://github.com/harshimysarla/OnboardAI">Repo</a></td>
+</tr>
 
 ---
 ---
